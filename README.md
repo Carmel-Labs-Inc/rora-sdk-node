@@ -197,6 +197,7 @@ Rora uses "gold prompts" - carefully crafted test prompts for different agent ty
 
 ## Links
 
+- [Homepage](https://carmel.so/rora)
 - [Dashboard](https://rora.carmel.so)
 - [Python SDK](https://github.com/Carmel-Labs-Inc/rora-sdk)
 - [GitHub](https://github.com/Carmel-Labs-Inc/rora-sdk-node)

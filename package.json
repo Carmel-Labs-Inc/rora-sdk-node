@@ -40,7 +40,7 @@
     "type": "git",
     "url": "https://github.com/Carmel-Labs-Inc/rora-sdk-node.git"
   },
-  "homepage": "https://rora.ai",
+  "homepage": "https://rora.carmel.so",
   "bugs": {
     "url": "https://github.com/Carmel-Labs-Inc/rora-sdk-node/issues"
   },
